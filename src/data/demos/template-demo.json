@@ -1,0 +1,247 @@
+[
+    {
+        "id": 1,
+        "catagory": "home",
+        "demoURL": "/home1",
+        "demoImage": "img/demo-img/home1.png",
+        "name": "Home One"
+    },
+    {
+        "id": 2,
+        "catagory": "home",
+        "demoURL": "/home2",
+        "demoImage": "img/demo-img/home2.png",
+        "name": "Home Two"
+    },
+    {
+        "id": 3,
+        "catagory": "inner",
+        "demoURL": "/explore1",
+        "demoImage": "img/demo-img/explore1.png",
+        "name": "Explore One"
+    },
+    {
+        "id": 4,
+        "catagory": "inner",
+        "demoURL": "/explore2",
+        "demoImage": "img/demo-img/explore2.png",
+        "name": "Explore Two"
+    },
+    {
+        "id": 5,
+        "catagory": "inner",
+        "demoURL": "/featured-items",
+        "demoImage": "img/demo-img/featured.png",
+        "name": "Featured Items"
+    },
+    {
+        "id": 6,
+        "catagory": "inner",
+        "demoURL": "/live-bidding",
+        "demoImage": "img/demo-img/auctions.png",
+        "name": "Live Auction"
+    },
+    {
+        "id": 7,
+        "catagory": "inner",
+        "demoURL": "/collections",
+        "demoImage": "img/demo-img/collections.png",
+        "name": "Collections"
+    },
+    {
+        "id": 8,
+        "catagory": "inner",
+        "demoURL": "/top-seller",
+        "demoImage": "img/demo-img/top-seller.png",
+        "name": "Top Seller"
+    },
+    {
+        "id": 9,
+        "catagory": "inner",
+        "demoURL": "/top-buyer",
+        "demoImage": "img/demo-img/top-buyer.png",
+        "name": "Top Buyer"
+    },
+    {
+        "id": 10,
+        "catagory": "inner",
+        "demoURL": "/live-bid/1",
+        "demoImage": "img/demo-img/item-details.png",
+        "name": "Item Details"
+    },
+    {
+        "id": 11,
+        "catagory": "dashboard",
+        "demoURL": "/dashboard",
+        "demoImage": "img/demo-img/admin.png",
+        "name": "Dashboard"
+    },
+    {
+        "id": 12,
+        "catagory": "dashboard",
+        "demoURL": "/live-bids",
+        "demoImage": "img/demo-img/admin-bids.png",
+        "name": "Live Bids"
+    },
+    {
+        "id": 13,
+        "catagory": "dashboard",
+        "demoURL": "/my-collection",
+        "demoImage": "img/demo-img/admin-collection.png",
+        "name": "My Collection"
+    },
+    {
+        "id": 14,
+        "catagory": "dashboard",
+        "demoURL": "/my-wallet",
+        "demoImage": "img/demo-img/admin-wallet.png",
+        "name": "My Wallet"
+    },
+    {
+        "id": 15,
+        "catagory": "dashboard",
+        "demoURL": "/notifications",
+        "demoImage": "img/demo-img/admin-notifications.png",
+        "name": "Notifications"
+    },
+    {
+        "id": 16,
+        "catagory": "dashboard",
+        "demoURL": "/settings",
+        "demoImage": "img/demo-img/admin-settings.png",
+        "name": "Settings"
+    },
+    {
+        "id": 17,
+        "catagory": "inner",
+        "demoURL": "/activity",
+        "demoImage": "img/demo-img/activity.png",
+        "name": "Activity"
+    },
+    {
+        "id": 18,
+        "catagory": "inner",
+        "demoURL": "/ranking",
+        "demoImage": "img/demo-img/ranking.png",
+        "name": "Ranking"
+    },
+    {
+        "id": 19,
+        "catagory": "inner",
+        "demoURL": "/create-new",
+        "demoImage": "img/demo-img/create.png",
+        "name": "Create New"
+    },
+    {
+        "id": 20,
+        "catagory": "inner",
+        "demoURL": "/connet-wallet",
+        "demoImage": "img/demo-img/wallet.png",
+        "name": "Connect Wallet"
+    },
+    {
+        "id": 21,
+        "catagory": "inner",
+        "demoURL": "/author/designing_world",
+        "demoImage": "img/demo-img/author.png",
+        "name": "Author Profile"
+    },
+    {
+        "id": 22,
+        "catagory": "others",
+        "demoURL": "/login",
+        "demoImage": "img/demo-img/login.png",
+        "name": "Login"
+    },
+    {
+        "id": 23,
+        "catagory": "others",
+        "demoURL": "/register",
+        "demoImage": "img/demo-img/register.png",
+        "name": "Register"
+    },
+    {
+        "id": 24,
+        "catagory": "others",
+        "demoURL": "/forget-password",
+        "demoImage": "img/demo-img/forget.png",
+        "name": "Forget Password"
+    },
+    {
+        "id": 25,
+        "catagory": "blog",
+        "demoURL": "/blog",
+        "demoImage": "img/demo-img/blog.png",
+        "name": "Blog"
+    },
+    {
+        "id": 26,
+        "catagory": "blog",
+        "demoURL": "/blog-details/1",
+        "demoImage": "img/demo-img/blog-details.png",
+        "name": "Blog Details"
+    },
+    {
+        "id": 27,
+        "catagory": "others",
+        "demoURL": "/about",
+        "demoImage": "img/demo-img/about.png",
+        "name": "About Us"
+    },
+    {
+        "id": 28,
+        "catagory": "others",
+        "demoURL": "/contact",
+        "demoImage": "img/demo-img/contact.png",
+        "name": "Contact"
+    },
+    {
+        "id": 29,
+        "catagory": "others",
+        "demoURL": "/newsletter",
+        "demoImage": "img/demo-img/newsletter.png",
+        "name": "Newsletter"
+    },
+    {
+        "id": 30,
+        "catagory": "others",
+        "demoURL": "/privacy",
+        "demoImage": "img/demo-img/privacy.png",
+        "name": "Privacy Policy"
+    },
+    {
+        "id": 31,
+        "catagory": "others",
+        "demoURL": "/terms",
+        "demoImage": "img/demo-img/terms.png",
+        "name": "Terms"
+    },
+    {
+        "id": 32,
+        "catagory": "others",
+        "demoURL": "/404",
+        "demoImage": "img/demo-img/404.png",
+        "name": "404"
+    },
+    {
+        "id": 33,
+        "catagory": "others",
+        "demoURL": "/help-center",
+        "demoImage": "img/demo-img/help1.png",
+        "name": "Help Center"
+    },
+    {
+        "id": 34,
+        "catagory": "others",
+        "demoURL": "/help-center/licenses",
+        "demoImage": "img/demo-img/help2.png",
+        "name": "Help Question"
+    },
+    {
+        "id": 35,
+        "catagory": "others",
+        "demoURL": "/help-question-details/1",
+        "demoImage": "img/demo-img/help3.png",
+        "name": "Question Details"
+    }
+]

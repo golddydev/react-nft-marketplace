@@ -1,0 +1,128 @@
+[
+    {
+        "name": [
+            {
+                "thumbnail": "img/bg-img/5.jpg",
+                "text": "NFT Logo"
+            }
+        ],
+        "price": "0.235 ETH",
+        "event": [
+            {
+                "icon": "bi-cart",
+                "text": "Sales"
+            }
+        ],
+        "time": [
+            {
+                "icon": "bi-clock",
+                "text": "29 min ago"
+            }
+        ]
+    },
+    {
+        "name": [
+            {
+                "thumbnail": "img/bg-img/7.jpg",
+                "text": "Piggy"
+            }
+        ],
+        "price": "0.706 ETH",
+        "event": [
+            {
+                "icon": "bi-percent",
+                "text": "Offer"
+            }
+        ],
+        "time": [
+            {
+                "icon": "bi-clock",
+                "text": "1h ago"
+            }
+        ]
+    },
+    {
+        "name": [
+            {
+                "thumbnail": "img/bg-img/8.jpg",
+                "text": "Car"
+            }
+        ],
+        "price": "0.134 ETH",
+        "event": [
+            {
+                "icon": "bi-alert",
+                "text": "Alert"
+            }
+        ],
+        "time": [
+            {
+                "icon": "bi-clock",
+                "text": "2h ago"
+            }
+        ]
+    },
+    {
+        "name": [
+            {
+                "thumbnail": "img/bg-img/13.jpg",
+                "text": "Monkey"
+            }
+        ],
+        "price": "0.198 ETH",
+        "event": [
+            {
+                "icon": "bi-cart",
+                "text": "Sales"
+            }
+        ],
+        "time": [
+            {
+                "icon": "bi-clock",
+                "text": "3h ago"
+            }
+        ]
+    },
+    {
+        "name": [
+            {
+                "thumbnail": "img/bg-img/18.jpg",
+                "text": "Sculpture"
+            }
+        ],
+        "price": "0.478 ETH",
+        "event": [
+            {
+                "icon": "bi-cart",
+                "text": "Sales"
+            }
+        ],
+        "time": [
+            {
+                "icon": "bi-clock",
+                "text": "12h ago"
+            }
+        ]
+    },
+    {
+        "name": [
+            {
+                "thumbnail": "img/bg-img/22.jpg",
+                "text": "Cat"
+            }
+        ],
+        "price": "0.562 ETH",
+        "event": [
+            {
+                "icon": "bi-percent",
+                "text": "Discount"
+            }
+        ],
+        "time": [
+            {
+                "icon": "bi-clock",
+                "text": "17h ago"
+            }
+        ]
+    }
+]

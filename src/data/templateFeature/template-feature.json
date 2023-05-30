@@ -1,0 +1,42 @@
+[
+    {
+        "iconBackgroundColor": "dark",
+        "icon": "img/demo-img/sm-logo/react.png",
+        "title": "React 18"
+    },
+    {
+        "iconBackgroundColor": "light",
+        "icon": "img/demo-img/sm-logo/route.png",
+        "title": "React Router 6"
+    },
+    {
+        "iconBackgroundColor": "light",
+        "icon": "img/demo-img/sm-logo/react-bootstrap.png",
+        "title": "React Bootstrap"
+    },
+    {
+        "iconBackgroundColor": "light",
+        "icon": "img/demo-img/sm-logo/bootstrap.png",
+        "title": "Bootstrap 5.1.3"
+    },
+    {
+        "iconBackgroundColor": "light",
+        "icon": "img/demo-img/sm-logo/tool.png",
+        "title": "Modern Design"
+    },
+    {
+        "iconBackgroundColor": "light",
+        "icon": "img/demo-img/sm-logo/dashboard.png",
+        "title": "Admin Dashboard"
+    },
+    {
+        "iconBackgroundColor": "light",
+        "icon": "img/demo-img/sm-logo/sass.png",
+        "title": "SCSS"
+    },
+    {
+        "iconBackgroundColor": "light",
+        "icon": "img/demo-img/sm-logo/responsive-design.png",
+        "title": "Smart Responsive"
+    }
+]

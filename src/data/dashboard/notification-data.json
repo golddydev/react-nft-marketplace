@@ -1,0 +1,572 @@
+[
+    {
+        "id": 1,
+        "tag": "today",
+        "badgeText": "New",
+        "icon": [
+            {
+                "icon": "bi-percent",
+                "color": ""
+            }
+        ],
+        "notification": "You have an offer!",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img class='mb-3 rounded' src='../img/bg-img/44.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 2,
+        "tag": "today",
+        "badgeText": "New",
+        "icon": [
+            {
+                "icon": "bi-tags",
+                "color": "info"
+            }
+        ],
+        "notification": "Congratulations! You sale an item.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/44.png' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 3,
+        "tag": "today",
+        "badgeText": "New",
+        "icon": [
+            {
+                "icon": "bi-gift",
+                "color": "danger"
+            }
+        ],
+        "notification": "January freebies have arrived.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 4,
+        "tag": "today",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-star",
+                "color": "warning"
+            }
+        ],
+        "notification": "A new rating has been received.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 5,
+        "tag": "today",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-percent",
+                "color": ""
+            }
+        ],
+        "notification": "You have an offer!",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img class='mb-3 rounded' src='../img/bg-img/44.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 6,
+        "tag": "today",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-tags",
+                "color": "info"
+            }
+        ],
+        "notification": "Congratulations! You sale an item.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/44.png' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 7,
+        "tag": "today",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-gift",
+                "color": "danger"
+            }
+        ],
+        "notification": "January freebies have arrived.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 8,
+        "tag": "today",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-star",
+                "color": "warning"
+            }
+        ],
+        "notification": "A new rating has been received.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 9,
+        "tag": "today",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-gift",
+                "color": "danger"
+            }
+        ],
+        "notification": "January freebies have arrived.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 10,
+        "tag": "today",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-star",
+                "color": "warning"
+            }
+        ],
+        "notification": "A new rating has been received.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 11,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-percent",
+                "color": ""
+            }
+        ],
+        "notification": "You have an offer!",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img class='mb-3 rounded' src='../img/bg-img/44.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 12,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-tags",
+                "color": "info"
+            }
+        ],
+        "notification": "Congratulations! You sale an item.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/44.png' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 13,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-gift",
+                "color": "danger"
+            }
+        ],
+        "notification": "January freebies have arrived.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 14,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-star",
+                "color": "warning"
+            }
+        ],
+        "notification": "A new rating has been received.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 15,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-percent",
+                "color": ""
+            }
+        ],
+        "notification": "You have an offer!",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img class='mb-3 rounded' src='../img/bg-img/44.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 16,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-tags",
+                "color": "info"
+            }
+        ],
+        "notification": "Congratulations! You sale an item.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/44.png' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 17,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-gift",
+                "color": "danger"
+            }
+        ],
+        "notification": "January freebies have arrived.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 18,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-star",
+                "color": "warning"
+            }
+        ],
+        "notification": "A new rating has been received.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 19,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-gift",
+                "color": "danger"
+            }
+        ],
+        "notification": "January freebies have arrived.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 20,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-star",
+                "color": "warning"
+            }
+        ],
+        "notification": "A new rating has been received.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 21,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-percent",
+                "color": ""
+            }
+        ],
+        "notification": "You have an offer!",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img class='mb-3 rounded' src='../img/bg-img/44.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 22,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-tags",
+                "color": "info"
+            }
+        ],
+        "notification": "Congratulations! You sale an item.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/44.png' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 23,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-gift",
+                "color": "danger"
+            }
+        ],
+        "notification": "January freebies have arrived.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 24,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-star",
+                "color": "warning"
+            }
+        ],
+        "notification": "A new rating has been received.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 25,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-percent",
+                "color": ""
+            }
+        ],
+        "notification": "You have an offer!",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img class='mb-3 rounded' src='../img/bg-img/44.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 26,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-tags",
+                "color": "info"
+            }
+        ],
+        "notification": "Congratulations! You sale an item.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/44.png' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 27,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-gift",
+                "color": "danger"
+            }
+        ],
+        "notification": "January freebies have arrived.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 28,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-star",
+                "color": "warning"
+            }
+        ],
+        "notification": "A new rating has been received.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 29,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-gift",
+                "color": "danger"
+            }
+        ],
+        "notification": "January freebies have arrived.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    },
+    {
+        "id": 30,
+        "tag": "week",
+        "badgeText": "",
+        "icon": [
+            {
+                "icon": "bi-star",
+                "color": "warning"
+            }
+        ],
+        "notification": "A new rating has been received.",
+        "notificationBody": [
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, eligendi adipisci?</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum temporibus culpa cumque ea neque, totam eos perferendis blanditiis, facilis fugit dicta recusandae soluta assumenda? Deleniti, porro. Quo aliquam praesentium beatae assumenda!</p>",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>",
+            "<img src='img/bg-img/1.jpg' alt='' />",
+            "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas perspiciatis ratione deserunt nostrum dolores reiciendis!</p>"
+        ]
+    }
+]

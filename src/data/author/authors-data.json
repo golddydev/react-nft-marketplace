@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "bgImage": "img/bg-img/1.jpg",
+        "thumbnail": "img/bg-img/u1.jpg",
+        "name": "Designing World",
+        "username": "designing_world",
+        "shortDesc": "We are designing and developing the best website for you. We are constantly creating awesome templates & themes by using modern technology to give you the best experience.",
+        "followBtnInfo": [
+            {
+                "style": "warning",
+                "text": "Follow"
+            }
+        ],
+        "authorDesc": [
+            "<p>We are designing and developing the best website for you. We are constantly creating awesome templates & themes by using modern technology to give you the best experience.",
+            "<p>When you purchased an item, we provide six months of free support. We provide customer support via email. For support, you can contact us via the profile page or item support tab.</p>"
+        ],
+        "owners": "86",
+        "followers": "49"
+    },
+    {
+        "id": 2,
+        "bgImage": "img/bg-img/44.jpg",
+        "thumbnail": "img/bg-img/u2.jpg",
+        "name": "Creative World",
+        "username": "creative_world",
+        "shortDesc": "Thanks for viewing our profile. For support or pre-sale questions, you can contact us via email.",
+        "followBtnInfo": [
+            {
+                "style": "warning",
+                "text": "Follow"
+            }
+        ],
+        "authorDesc": [
+            "<p>We are designing and developing the best website for you. We are constantly creating awesome templates & themes by using modern technology to give you the best experience."
+        ],
+        "owners": "52",
+        "followers": "33"
+    },
+    {
+        "id": 3,
+        "bgImage": "img/bg-img/1.jpg",
+        "thumbnail": "img/bg-img/u3.jpg",
+        "name": "NFT Fun",
+        "username": "nft_fun",
+        "shortDesc": "When you purchased an item, we provide six months of free support. We provide customer support via email. For support, you can contact us via the profile page or item support tab.",
+        "followBtnInfo": [
+            {
+                "style": "warning",
+                "text": "Follow"
+            }
+        ],
+        "authorDesc": [
+            "<p>We are designing and developing the best website for you. We are constantly creating awesome templates & themes by using modern technology to give you the best experience.",
+            "<p>When you purchased an item, we provide six months of free support. We provide customer support via email. For support, you can contact us via the profile page or item support tab.</p>"
+        ],
+        "owners": "112",
+        "followers": "64"
+    },
+    {
+        "id": 4,
+        "bgImage": "img/bg-img/44.jpg",
+        "thumbnail": "img/bg-img/u4.jpg",
+        "name": "Creative Art",
+        "username": "creative_art",
+        "shortDesc": "We are designing and developing the best website for you. We are constantly creating awesome templates & themes by using modern technology to give you the best experience.",
+        "followBtnInfo": [
+            {
+                "style": "warning",
+                "text": "Follow"
+            }
+        ],
+        "authorDesc": [
+            "<p>When you purchased an item, we provide six months of free support. We provide customer support via email. For support, you can contact us via the profile page or item support tab.</p>"
+        ],
+        "owners": "63",
+        "followers": "21"
+    }
+]
